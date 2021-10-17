@@ -17,13 +17,14 @@ print("Working!")
 async def main():
   try:
     i = 1
+    group_id=XXXXXXXXXX
     
         
     while True:
-      msg = await client.send_message(-1001598581778, str(i))#send the message
+      msg = await client.send_message(group_id, str(i))#send the message
       i=i+1 #increment of i
       await asyncio.sleep(1)#wait for a sec
-      await client.delete_messages(-1001598581778, msg.id)#then delete
+      await client.delete_messages(group_id, msg.id)#then delete
       await asyncio.sleep(1)     #again wait for a sec
       #wait is necessary for the removal of flooding
   except Exception as e:
