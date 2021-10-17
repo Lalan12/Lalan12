@@ -16,10 +16,7 @@ keep the bot files in the same folder
 
 
 
-- 👋 Hi, I’m @Lalan12
-- 👀 I’m interested in Coding 
-- 🌱 I’m currently Making androi apps and some discord bot and telegram 
-- 📫 How to reach me: via Github
+
 
 <!---
 Lalan12/Lalan12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
