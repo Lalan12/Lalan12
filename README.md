@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lalan12
 - 👀 I’m interested in Coding 
-- 🌱 I’m currently Making androi apps and some discord bot and telegram 
+- 🌱 I’m currently Making android apps and some discord bot and telegram 
 - 📫 How to reach me: via Github
 
 <!---
