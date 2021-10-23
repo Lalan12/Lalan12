@@ -15,20 +15,21 @@ print("Working!")
 
 
 async def main():
-  try:
-    i = 1
+  i = 1
+  while True:
+    
     group_id=XXXXXXXXXX
     
         
-    while True:
+    try:
       msg = await client.send_message(group_id, str(i))#send the message
       i=i+1 #increment of i
       await asyncio.sleep(1)#wait for a sec
       await client.delete_messages(group_id, msg.id)#then delete
       await asyncio.sleep(1)     #again wait for a sec
       #wait is necessary for the removal of flooding
-  except Exception as e:
-    print(e)
+    except Exception as e:
+      print(e)
     
 		
 keep_alive()#this is imported in the 8th line and used to run 24*7
