@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lalan12
 - 👀 I’m interested in Coding 
-- 🌱 I’m currently Making android apps and some discord bot and telegram 
+- 🌱 I’m currently in competitive programming and robotics.
 - 📫 How to reach me: Mail me at [08.lalankr@gmail.com]
 
 <!---
